@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500&family=Roboto+Mono:ital,wght@1,300&family=Zen+Kurenaido&display=swap');
+
+body{
+    background: rgb(35,35,37);
+background: linear-gradient(90deg, rgba(35,35,37,1) 0%, rgba(80,85,88,1) 100%);
+    font-family: 'EB Garamond', serif !important;
+    
+}
+
+.navbar{
+    text-align: center;
+    background-color: #C7DBD2;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+h2 {
+    text-align: center;
+    color: aliceblue;
+    padding-top: 3rem;
+}
+h3 {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 1rem;
+}
+a{
+    color: aliceblue !important;
+    font-size: large;
+    background-color: #384bb6;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    border-radius: 5px;
+    
+}
+
+table{
+    overflow: hidden;
+    border-radius: 10px;
+    margin-top: 2rem;
+}
+.form{
+    background-color: #C7DBD2;
+    color: rgb(7, 7, 7);
+    padding: 2rem;
+    width: 520px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 7px;
+    box-shadow: 5px 10px #000000;
+}
+.edit{
+        background-color: #C7DBD2;
+        color: rgb(7, 7, 7);
+        padding: 2rem;
+        width: 400px;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border-radius: 7px;
+        box-shadow: 5px 10px #000000;
+}
+
+td{
+    padding: 1rem;
+    font-size: 20px;
+}
+input{
+    height: 45px;
+    border-radius: 8px;
+}

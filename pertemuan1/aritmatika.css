@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body {
+    font-family: 'Oswald', sans-serif;
+    background-image: url(../image/latar2.png);
+    background-size: cover;
+    margin-top: 2rem;
+    background-attachment: fixed;
+}
+
+.kalkulator{
+	width: 335px;
+	background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 1%, rgba(253,125,45,1) 100%);
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px 0px #9E7777;
+}
+.bil{
+	width: 300px;
+	margin: 5px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;	
+}
+ 
+.opt{
+	font-size: 16pt;
+	border: none;
+	width: 215px;
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+}
+ 
+.tombol{
+	background: #6F4C5B;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #eee;
+	font-size: 15pt;
+	border-bottom:4px solid #6F4C5B;
+}
+ 
+.brand{
+	color: #eee;
+	font-size: 11pt;
+	float: right;
+	text-decoration: none;
+	margin: 12px;
+}
+ 
+.judul{
+	text-align: center;
+	color: #eee;
+	font-weight: normal;
+}
